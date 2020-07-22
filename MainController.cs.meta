@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 739300ba34d08fe42965cff3802ee989
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Character: {fileID: 8533620408276521821, guid: c3940fdd81566f641bc04492d1d7b6e3,
+      type: 3}
+  - Collider: {fileID: 6192741073005740085, guid: 790b79807366a6947b222feefc311644,
+      type: 3}
+  - Dog: {fileID: 8344564518691569134, guid: 301fb261c2cfc9d4d8b9d0fc51af9c5d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
